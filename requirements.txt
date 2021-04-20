@@ -1,0 +1,6 @@
+networkx
+geopandas
+osmnx
+folium
+jupyterlab
+ipython==7.10.0
