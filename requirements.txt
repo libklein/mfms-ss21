@@ -4,3 +4,5 @@ osmnx
 folium
 jupyterlab
 ipython==7.10.0
+funcy
+sklearn
